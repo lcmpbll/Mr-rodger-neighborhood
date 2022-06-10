@@ -8,6 +8,6 @@
 Code: beepBoop(3);
 Expected output: [0, 1, 2, 3]
 
-Test: "It should return the index of the number 3 when the array has a number 3.
-Code: beepBoop (13);
-Expected output: 4
+Test: "It should return the "boop" when a 1 is present in the index
+Code: beepBoop (2);
+Expected output: ["boop", 2]
