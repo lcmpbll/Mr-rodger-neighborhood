@@ -38,10 +38,10 @@
 	}
  
 	//UI logic
-$(doucment).ready(function(){
-	$(#formOne).submit(function(event){
+$(document).ready(function(){
+	$("#formOne").submit(function(event){
 		event.preventDefault;
-		$($results).show();
+		$("#results").show();
 		const countTo = parseInt($("#countingTo").val());
 		const results = beepBoop(countTo);
 		$("#results").append(results+"<br>");
