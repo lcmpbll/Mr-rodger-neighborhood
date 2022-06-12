@@ -3,7 +3,8 @@
 #### By _**Liam Campbell**_
 
 #### _Counter that emits beeps and boops and asks you to be a neighbor_
-[!A photo of Mr. Rodgers](img/mrRodgers.jpeg)
+
+![A photo of Mr. Rodgers](img/mrRodgers.jpeg)
 
 ## Technologies Used
 
