@@ -3,6 +3,7 @@
 #### By _**Liam Campbell**_
 
 #### _Counter that emits beeps and boops and asks you to be a neighbor_
+[!A photo of Mr. Rodgers](img/mrRodgers.jpeg)
 
 ## Technologies Used
 
@@ -53,8 +54,7 @@ _This application takes the number that the user inputs and uses JavaScript to o
 
 ## Known Bugs
 
-*_This currently does not have an output.
-
+* _None
 ## License 
 
 _Feel free to reach out via github with any questions or comments_
