@@ -55,7 +55,7 @@ _This application takes the number that the user inputs and uses JavaScript to o
 
 ## Known Bugs
 
-* _None
+* _None_
 ## License 
 
 _Feel free to reach out via github with any questions or comments_
