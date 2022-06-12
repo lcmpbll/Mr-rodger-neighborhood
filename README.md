@@ -20,6 +20,17 @@
 Code: beepBoop(3);
 Expected output: [0, 1, 2, 3]
 
+Test : "It should Identify the number 3 in the array."
+Code: beepBoop(4);
+Expected output: [0 false, 1, false, 2, false, 3, true, 4, false]
+
+Test "It should identify the number three in two didgit numbers"
+code: beepBoop (13);
+Expected output:
+
+Test : "It should replace the number 3 with "Won't you be my neighbor."
+Code: beepBoop (3);
+
 Test: "It should return the "boop" when a 1 is present in the index
 Code: beepBoop (2);
 Expected output: ["boop", 2]
