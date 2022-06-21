@@ -67,9 +67,9 @@ _This application takes the number that the user inputs and uses JavaScript to o
 
 ## Setup Instructions
 
-*_Clone this repository to your desktop from https://github.com/lcmpbll/Mr-rodger-neighborhood_
-*_Navigate to the top level of the directory_
-*_Open index.html_
+* _Clone this repository to your desktop from https://github.com/lcmpbll/Mr-rodger-neighborhood_
+* _Navigate to the top level of the directory_
+* _Open index.html_
 
 ## Known Bugs
 
