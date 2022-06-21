@@ -3,7 +3,7 @@
 	
 function beepBoop(countTo){
 		let array= [];
-	for(index = 0; index <= countTo; index ++) {
+	for(let index = 0; index <= countTo; index ++) {
 			let x = index.toString();
 			if (x.includes("3")) {
 				array.push("Won't you be my neighbor?");
