@@ -65,6 +65,8 @@
 
 _This application takes the number that the user inputs and uses JavaScript to output a string of numbers from 0 to the output substituting "beeps" on every number that contains a one, "boops" on every number that contains a two, and "Won't you be my neighbor" on every number that contains a three._
 
+## Setup Instructions
+
 *_Clone this repository to your desktop from https://github.com/lcmpbll/Mr-rodger-neighborhood_
 *_Navigate to the top level of the directory_
 *_Open index.html_
